@@ -1,0 +1,97 @@
+.wrapper {
+  max-width: 85%;   /* always take 90% of the viewport */
+  margin: 0 auto;   /* keep it centered */
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.page-content {
+  padding: 1rem; /* reduce top/bottom padding */
+}
+
+/* --------------------------
+   Global body text
+--------------------------- */
+body {
+  font-size: 1.125rem;  /* ~18px */
+  line-height: 1.6;
+}
+
+/* --------------------------
+   Headings hierarchy
+--------------------------- */
+h1 { font-size: 3rem; }
+h2 { font-size: 2.5rem; }
+h3 { font-size: 2rem; }
+h4 { font-size: 1.75rem; }
+h5 { font-size: 1.5rem; }
+h6 { font-size: 1.25rem; }
+
+/* --------------------------
+   In-post links
+--------------------------- */
+.post-content a,
+a {
+  font-size: 1.125rem;      /* matches body text */
+  line-height: 1.6;
+}
+
+/* --------------------------
+   Table of Contents links
+--------------------------- */
+#toc a,
+.toc a {
+  font-size: 1.125rem;
+  line-height: 1.5;
+}
+
+/* --------------------------
+   Header navigation links
+   (Home, Work, Blog)
+--------------------------- */
+.site-nav a {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: 500;      /* optional: slightly bolder */
+}
+
+/* --------------------------
+   Responsive adjustments
+--------------------------- */
+@media (max-width: 900px) {
+  .wrapper {
+    max-width: 95%;
+  }
+}
+
+@media (max-width: 600px) {
+  body { font-size: 1rem; }
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.75rem; }
+  h3 { font-size: 1.5rem; }
+  h4 { font-size: 1.25rem; }
+  h5 { font-size: 1.125rem; }
+  h6 { font-size: 1rem; }
+
+  #toc a,
+  .toc a { font-size: 0.9rem; }
+  .site-nav a { font-size: 0.9rem; }
+}
+
+/* This kills the footer */
+footer,
+#footer,
+.site-footer {
+  display: none !important;
+}
+
+.page-heading {
+  font-size: 3rem;   /* or whatever size you want */
+  line-height: 1.1;  /* optional, keeps spacing tight */
+}
+
+.profile-pic {
+  width: 600px;       /* adjust to desired size */
+  height: auto;       /* keeps aspect ratio */
+  max-width: 100%;    /* ensures it doesn’t overflow container */
+}

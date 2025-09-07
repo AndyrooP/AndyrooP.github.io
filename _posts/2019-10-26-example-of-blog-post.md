@@ -4,6 +4,7 @@ title: "Post example"
 date: 2019-10-26 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
+math: true
 ---
 
 <img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
@@ -12,6 +13,10 @@ og_image: /assets/img/content/post-example/Banner.jpg
 
 This is an example of blog post.
 Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
+
+$x^2+\mathbb{R}^2$ 
+
+\[x^2+y^2=z^2\]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum[^1].
 

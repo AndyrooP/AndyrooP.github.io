@@ -4,6 +4,8 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
+gem "csv"
+gem "logger"
 gem "jekyll", "~> 4.3.4"
 
 # Plugins
@@ -20,3 +22,5 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+
+gem "base64", "~> 0.3.0"
