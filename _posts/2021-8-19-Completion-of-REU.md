@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Completion of the REU and other present happenings"
+date: 2021-8-19 10:00:00 -0400
+blurb: "A look at an example post using Bay Jekyll theme."
+og_image: /assets/img/content/post-example/Banner.jpg
+math: true
+---
+The summer has progressed quite a bit. My REU at UC Santa Barbara has ended. I still cannot say much about the work that I did (I will have to wait until a preprint is up on arXiv before I can really talk about technical details). However, I can say that broadly, the research was in Lie theory. I have presented the work at the Southern California Math REU Conference and at the YMC. I also do plan to apply to a few other conferences.
+
+Overall, the experience was great. I learned a lot about Lie theory and how math research is conducted in general. I found by lack of experience in algebra to be the main bottleneck. Often times, I was left gawking at some basic algebraic facts (such as the isomorphism theorems, universal properties, etc.). This was very reminiscent of the struggles I faced when studying algebraic topology this past spring quarter. Not only was the subject conceptually very difficult, but I was often stuck on the algebra. My deficiencies in algebra should be resolved this upcoming academic year.
+
+I have decided to drop my physics major. Superficially, this may seem like pretty major news, but honestly, not much has changed. Since early last year, I had been intending to pursue a PhD program in mathematics anyway. This is not to say that I am no longer interested in physics—much of my mathematical interests are from mathematical physics. The main issue is that the physics major at UCSD is structured in a very *annoying* way. It forces me to take a very particular sequence of classes in a very particular order. All things considered, the sequence ends up being far too slow for my liking. Students are denied access to the serious physics classes until their third year—but that is the time that one should really be thinking about grad school! When I was constructing my schedule for my upcoming fall quarter, I realized that I had hit a crossroads. If I continued with physics, I would have to take various lab classes with first and second year students. Alternatively, if I focused entirely on math, I would be able to immediately take some graduate courses. I decided that the opportunity cost of staying in physics was just too great.
+
+My schedule for the fall quarter consists of abstract algebra, logic, graduate-level complex analysis, and graduate-level real analysis. I will also be taking the Putnam seminar. I am especially excited about logic: this is a class that I really wanted to take at some point in my life, and now I am able to since I am no longer a physics major! I will also be taking the Putnam seminar with Daniel Kane once again. As this will be my final year before graduate school applications, I do wish to perform well this year. After resting for the past two weeks, I have finally begun preparations for that.
+
+My schedule should keep me busy this fall. I do not think I will be doing much else other than what I have indicated. I may do a little bit of reading on the side. Graduate school applications seem to be looming right around the corner and that worries me a bit, but I have about a year left. Hopefully, I can make it count.
