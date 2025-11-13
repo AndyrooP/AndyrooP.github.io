@@ -1,6 +1,6 @@
 ---
 layout: work
-title: 
+title: Research
 slug: /research
 ---
 
@@ -9,9 +9,9 @@ slug: /research
 2. ***Topological Properties of Almost Abelian Groups*** with <a href="https://www.z-avetisyan.com/" target="_blank">Zhirayr Avetisyan</a>, Oderico-Benjamin Buran, and Lisa Reed; August 2023. [arXiv: <a href="https://arxiv.org/abs/2308.08059" target="_blank">2308.08059</a>]
 
 #### Expository
-1. ***Algebraic Topology*** (in progress) [<a href="/bay/myassets/docs/ResearchDocs/AlgTop.pdf" target="_blank">PDF</a>]
-2. ***Hodge Theory and Complex Algebraic Geometry*** (in progress) [<a href="/bay/myassets/docs/ResearchDocs/HodgeTheory.pdf" target="_blank">PDF</a>]
-3. ***​​Chern Classes and Lines on a Cubic Surface***​, UC San Diego Honors Thesis, June 2023, updated 11/7/2023 [<a href="/bay/myassets/docs/ResearchDocs/HonorsThesisV5.pdf" target="_blank">PDF</a>]
+1. ***Algebraic Topology*** (in progress) [<a href="/myassets/docs/ResearchDocs/AlgTop.pdf" target="_blank">PDF</a>]
+2. ***Hodge Theory and Complex Algebraic Geometry*** (in progress) [<a href="/myassets/docs/ResearchDocs/HodgeTheory.pdf" target="_blank">PDF</a>]
+3. ***​​Chern Classes and Lines on a Cubic Surface***​, UC San Diego Honors Thesis, June 2023, updated 11/7/2023 [<a href="/myassets/docs/ResearchDocs/HonorsThesisV5.pdf" target="_blank">PDF</a>]
 
 
 See <a href="https://anpaul.weebly.com/archives.html" target="_blank">here</a> for stuff I wrote mostly in high school.
