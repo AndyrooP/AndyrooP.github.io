@@ -7,7 +7,7 @@ profile_picture:
 
 
 
-I am a third year PhD student in the <a href="https://math.unc.edu/" target="_blank">Department of Mathematics</a> at the <a href="https://www.unc.edu/" target="_blank">University of North Carolina at Chapel Hill</a> studying under <a href="https://sawon.web.unc.edu/" target="_blank">Justin Sawon</a>. I completed my undergraduate degree in mathematics at the <a href="https://ucsd.edu/" target="_blank">University of California, San Diego</a> in 2023. You can find my CV <a href="/bay/assets/docs/GCV.pdf" target="_blank">here</a>.
+I am a third year PhD student in the <a href="https://math.unc.edu/" target="_blank">Department of Mathematics</a> at the <a href="https://www.unc.edu/" target="_blank">University of North Carolina at Chapel Hill</a> studying under <a href="https://sawon.web.unc.edu/" target="_blank">Justin Sawon</a>. I completed my undergraduate degree in mathematics at the <a href="https://ucsd.edu/" target="_blank">University of California, San Diego</a> in 2023. You can find my CV <a href="/assets/docs/GCV.pdf" target="_blank">here</a>.
 
 ​I am broadly interested in geometry, topology, and mathematical physics. More specifically, I am interested in complex geometry, Hodge theory, algebraic topology, and interactions between these areas.
 
