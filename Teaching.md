@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Teaching
-slug: /teaching
+permalink: /teaching
 ---
 
 #### UNC Chapel Hill
