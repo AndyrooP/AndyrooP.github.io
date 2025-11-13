@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: work
 title: Research
-slug: /research
+permalink: /research
 ---
 
 #### Papers
