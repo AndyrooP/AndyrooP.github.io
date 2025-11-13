@@ -23,7 +23,7 @@ And the result follows when we consider a contour map of \\(V\\) over space (wit
 
 Another cool result I learned helped explain why plasma discharge always seemed to occur at "spiky" or "sharp" points. For instance, see this image:
 <div style="text-align: center;">
-<img src="/bay/myassets/images/2019-3-19-Physics-is-hard-images/corona-discharge.jpg" alt="Sequence graph for a_0=500" width="200px">
+<img src="/bay/myassets/images/2019-3-19-Physics-is-hard-images/corona-discharge.jpg" alt="Corona discharge" width="200px">
 </div>
 
 The plasma discharge occurs at the sharp tips of this contraption. To explain this, we consider a configuration of a conductor with a sphere (radius \\(R_1\\)) connected to another sphere (radius \\(R_2>R_1\\)) by a wire (length \\(\ell\gg R_2\\)). Since \\(\ell\\) is large, we can assume that the potential on the surface of either sphere is independent of the existence of the other sphere. Hence, the potential on the surface of either sphere is given by:

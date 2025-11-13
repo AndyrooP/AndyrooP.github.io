@@ -21,7 +21,7 @@ But for a corner square to be attacked, say h8, a knight must be on g6 or f7. Bu
 
 Combo is pretty hit or miss and I hit the next one pretty quickly.
 
-**Problem:** Is there a 2000-element subset of the set \\(\{1,2,3,...,3000\}\\) such that no element in the subset is exactly double another element of the subset?
+**Problem:** Is there a 2000-element subset of the set \\(\\{1,2,3,...,3000\\}\\) such that no element in the subset is exactly double another element of the subset?
 
 **Solution (Me):** Suppose the set is \\(A\\). Choose all the odds (obviously). This gives us 1500 elements. The remaining elements of \\(A\\) must be multiples of powers of \\(4\\). If we allow a multiples of powers of \\(2\\) that are not powers of \\(4\\), doubles will exist. The computation shows that we end up with \\(1999\\) terms, just short of the required \\(2000\\).
 

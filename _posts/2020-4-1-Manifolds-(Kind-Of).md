@@ -15,7 +15,7 @@ x_{i_1}\\\\\
 x_{i_{n-m}}\end{pmatrix}=\begin{pmatrix}x_{j_1}\\\\\
 \vdots\\\\\
 x_{j_m}\end{pmatrix},\\]
-where \\(\{x_{j_1},...,x_{j_m}\}=\{x_1,...,x_n\}-\{x_{i_1},...,x_{i_{n-m}}\}\\). The regularity condition is an interesting one. I'm not sure I quite get it. When the derivative of \\(f\\) fails to be surjective, that means that the rank of the Jacobian matrix is not equal to \\(m\\). This means that at least one of the column vectors of the Jacobian can be written as a linear combination of the others. That is, one of the partial derivatives of \\(f\\) is a linear combination of some of the others.
+where \\(\\{x_{j_1},...,x_{j_m}\\}=\\{x_1,...,x_n\\}-\\{x_{i_1},...,x_{i_{n-m}}\\}\\). The regularity condition is an interesting one. I'm not sure I quite get it. When the derivative of \\(f\\) fails to be surjective, that means that the rank of the Jacobian matrix is not equal to \\(m\\). This means that at least one of the column vectors of the Jacobian can be written as a linear combination of the others. That is, one of the partial derivatives of \\(f\\) is a linear combination of some of the others.
 
 This is a strange condition. The partial derivatives of \\(f\\) must be linearly independent for an implicit function to be guaranteed to exist. If I think really hard, I can come up with the following heuristic.
 

@@ -8,7 +8,7 @@ math: true
 ---
 Here is an interesting problem that has surprisingly far-reaching consequences.
 
-Consider a permutation \\(\sigma\colon S\to S'\\) of some list, say \\(S=\{1,2,\dots,n\}\\) that maps \\(S\mapsto\{k_1,k_2,\dots,k_n\}\\), where \\(k_i\in S\\). Define a _transposition_ to be a permutation that only swaps two elements of the list it acts on. It is clear that every permutation can be decomposed into transpositions. Seriously. It is intuitively obvious.
+Consider a permutation \\(\sigma\colon S\to S'\\) of some list, say \\(S=\\{1,2,\dots,n\\}\\) that maps \\(S\mapsto\\{k_1,k_2,\dots,k_n\\}\\), where \\(k_i\in S\\). Define a _transposition_ to be a permutation that only swaps two elements of the list it acts on. It is clear that every permutation can be decomposed into transpositions. Seriously. It is intuitively obvious.
 
 But if we wanted to be a bit more rigorous, observe that we can give a state to every element \\(j_i\in S\\). Let \\(j_i\\) be _correct_ if \\(j_i=\sigma(j_i)\\), that is, \\(j_i\\) is a fixed point under the permutation. Let \\(j_i\\) be _incorrect_ otherwise.
 
@@ -23,7 +23,7 @@ This intuitively makes a lot of sense, though it's not very clear how to prove i
 This _parity_ of a permutation is called its _signature_, and we are concerned with its existence and uniqueness. The signature of a permutation is \\(1\\) when a permutation can only be decomposed into an even number of transpositions and \\(-1\\) otherwise. But there is actually an equivalent definition of signature that we can give with which it is much easier to probe the questions of existence and uniqueness.
 
 Let \\(P_n\\) denote the set of all permutations that act on lists with cardinality \\(n\\). Then the signature is defined as the function
-\\[\varsigma\colon P_n\to\{-1,1\}\\]
+\\[\varsigma\colon P_n\to\\{-1,1\\}\\]
 such that \\(\varsigma(\sigma_1\circ\sigma_2)=\varsigma(\sigma_1)\varsigma(\sigma_2)\\) for all \\(\sigma_1,\sigma_2\in P_n\\) and \\(\varsigma(\tau)=-1\\) if \\(\tau\\) is a transposition. The signature is usually denoted by "sgn", but due to MathJax limitations, I will denote it with \\(\varsigma\\).
 
 We need to show that this definition is equivalent to our parity definition, and also that the signature exists and is unique (using this definition). Showing the equivalence of the definitions is trivial. Since the signature of the composition is the product of the signatures, and the signature of a transposition is \\(-1\\), we must have that the signature is \\(\varsigma(\sigma)=(-1)^{T(\sigma)}\\), where \\(T(\sigma)\\) gives the number of transpositions in any one of the decompositions of \\(\sigma\\). Now we must prove that this function exists and is unique.

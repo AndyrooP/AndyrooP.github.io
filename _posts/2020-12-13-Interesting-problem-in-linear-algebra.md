@@ -7,7 +7,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 math: true
 ---
 It is easy to see that the set of all \\(3\times3\\) real matrices, which I will denote by \\(\mathbb{M}\_{3\times3}\\) is a vector space. Consider \\(H\subset\mathbb{M}\_{3\times3}\\) defined by
-\\[H=\{A\in\mathbb{M}\_{3\times3}\ \text{such that }\det{(A+A^T)}=0\}.\\]
+\\[H=\\{A\in\mathbb{M}\_{3\times3}\ \text{such that }\det{(A+A^T)}=0\\}.\\]
 Is \\(H\\) a subspace of \\(\mathbb{M}\_{3\times3}\\)?
 
 It turns out, the answer is no. \\(H\\) has a zero element and is closed under scalar multiplication, but it is _not_ closed under vector addition. It is sufficient to find \\(A,B\in H\\) with \\(A+B\notin H\\).

@@ -21,11 +21,11 @@ Cauchy-Schwarz also implies that the equality condition is precisely when the \\
 
 This is clean, but it is pretty opaque. Mostly because Cauchy-Schwarz is not very intuitive (beyond the vector dot product geometric interpretation, do you really have a *feel* for why the numbers themselves must satisfy Cauchy-Schwarz?). Lucky for us, there is another, arguably more natural, way to derive QM-AM.
 
-Suppose I gave you a list of four numbers at McDonald's. For each number, you are allowed to select one of the four types of chicken nuggets box that number of times (and you can only select each box type twice). For instance, if the set I gave you was \\(\{2,3,5,8\}\\). You select a number, for instance 5, and then select a box type (out of 4-piece, 6-piece, 10-piece, and 20-piece) for instance 10-piece, and buy five 10-pieces to get 50 chicken nuggets. How would you maximize the number of chicken nuggets you get? This is pretty obvious. The greedy algorithm is optimal. We pair the highest box numbers with the highest purchase numbers.
+Suppose I gave you a list of four numbers at McDonald's. For each number, you are allowed to select one of the four types of chicken nuggets box that number of times (and you can only select each box type twice). For instance, if the set I gave you was \\(\\{2,3,5,8\\}\\). You select a number, for instance 5, and then select a box type (out of 4-piece, 6-piece, 10-piece, and 20-piece) for instance 10-piece, and buy five 10-pieces to get 50 chicken nuggets. How would you maximize the number of chicken nuggets you get? This is pretty obvious. The greedy algorithm is optimal. We pair the highest box numbers with the highest purchase numbers.
 
 This gives rise to what is called the *rearrangement inequality*. If \\(a_i\leq a_j\\) and \\(b_i\leq b_j\\) iff \\(i\leq j\\), then we have that \\(\sum_{i=1}^{n}{a_ib_i}\\) is the maximal dot product of vectors with components \\(a_i\\) with vectors with components \\(b_i\\). In other words,
 \\[\sum_{i=1}^{n}{a_ib_i}\geq\sum_{k=1}^{n}{a_kb_{\sigma(k)}},\\]
-where \\(\sigma\\) is a permutation on \\(\{1,...,n\}\\). There is nothing complicated going on here. Just a super intuitive application of the greedy algorithm. Any third-grader can follow that.
+where \\(\sigma\\) is a permutation on \\(\\{1,...,n\\}\\). There is nothing complicated going on here. Just a super intuitive application of the greedy algorithm. Any third-grader can follow that.
 
 ​Now, it follows that
 \\[a_1b_1+...+a_nb_n\geq a_1b_1+...+a_nb_n\\]

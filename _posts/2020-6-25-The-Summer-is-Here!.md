@@ -16,7 +16,7 @@ For what values \\(n\\) is \\(k(n)\\) a perfect square?
 \\[\frac{k(n)}{4}=36\underbrace{1...1}_{\text{$n-2$ digit $1$'s}}.\\]
 So it suffices to find the \\(n\\) for which this number is a square. Observe that squares are congruent to either 0 or 1 modulo 4 (if you've stuck around here for some time, you'd notice that we LOVE taking squares modulo 4). But, by long division, we see that \\(\frac{k(n)}{4}\\) is congruent to 3 modulo 4 whenever \\(n>3\\). So, we need to only check \\(n=2\\) and \\(n=3\\).
 
-Indeed, \\(144=12^2\\) and \\(1444=38^2\\). So \\(k(n)\\) is square precisely when \\(n\in\{0,2,3\}\\). \\(\square\\)
+Indeed, \\(144=12^2\\) and \\(1444=38^2\\). So \\(k(n)\\) is square precisely when \\(n\in\\{0,2,3\\}\\). \\(\square\\)
 
 ​I have a few ideas about what I plan on doing next here. I want to talk about Lebesgue integration. The theory of Riemann integration that we thoroughly developed in MATH 31CH is a powerful conceptual tool, but it has several weaknesses. For example, the Riemann integral is not well-defined over \\(\mathbb{R}^n\\) for functions with unbounded supports.
 

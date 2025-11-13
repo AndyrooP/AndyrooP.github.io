@@ -13,3 +13,6 @@ slug: /research
 2. ***Hodge Theory and Complex Algebraic Geometry*** (in progress) [<a href="/bay/myassets/docs/ResearchDocs/HodgeTheory.pdf" target="_blank">PDF</a>]
 3. ***​​Chern Classes and Lines on a Cubic Surface***​, UC San Diego Honors Thesis, June 2023, updated 11/7/2023 [<a href="/bay/myassets/docs/ResearchDocs/HonorsThesisV5.pdf" target="_blank">PDF</a>]
 
+
+See <a href="https://anpaul.weebly.com/archives.html" target="_blank">here</a> for stuff I wrote mostly in high school.
+
