@@ -19,7 +19,7 @@ However, the proof of the inverse function theorem requires what is known as the
 Ah! This makes great sense. If you squish some points together, it would seem that some point must not move. Behold my great visualization.
 
 <div style="text-align: center;">
-<img src="/bay/myassets/images/2020-3-8-The-Contraction-Mapping-Theorem-images/ContractionMappingTheorem.png" alt="Contraction map" width="500px">
+<img src="/myassets/images/2020-3-8-The-Contraction-Mapping-Theorem-images/ContractionMappingTheorem.png" alt="Contraction map" width="500px">
 </div>
 
 This is an example of a contraction mapping. Shown is a fixed point (in red) and some points in a neighborhood of it (in blue).
@@ -27,7 +27,7 @@ This is an example of a contraction mapping. Shown is a fixed point (in red) and
 Perhaps this visualization reminds you of something. Indeed, a homothety on the plane is an example (in particular, a special case) of a contraction mapping on \\(\mathbb{R}^2\\) to \\(\mathbb{R}^2\\)! How so?
 
 <div style="text-align: center;">
-<img src="/bay/myassets/images/2020-3-8-The-Contraction-Mapping-Theorem-images/homothety.png" alt="Contraction map" width="500px">
+<img src="/myassets/images/2020-3-8-The-Contraction-Mapping-Theorem-images/homothety.png" alt="Contraction map" width="500px">
 </div>
 
 This is a homothety with center \\(O\\).

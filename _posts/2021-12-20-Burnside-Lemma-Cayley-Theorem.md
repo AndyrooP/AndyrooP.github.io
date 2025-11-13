@@ -28,7 +28,7 @@ Let \\(G_s\\) be the stabilizer of \\(s\\). By the counting formula, we can rewr
 \\[|G|\cdot N=\sum_{s\in S}{|G_s|}.\\]
 Consider every formula of the form \\(gs=s\\) that is true under the group action, where \\(g\in G\\) and \\(s\in S\\). Each such formula corresponds to exactly one element in \\(G_s\\) (namely \\(g\\)) and one element in \\(S^g\\) (namely \\(s\\)). Conversely, every element in \\(G_s\times \\\{s\\\}\\) corresponds to exactly one formula of the aforementioned form, and similarly every element in \\(S^g\times \\\{g\\\}\\) corresponds to exactly one formula of the aforementioned form. So the following diagram commutes:
 <div style="text-align: center;">
-<img src="/bay/myassets/images/2021-12-20-Burnside-Lemma-Cayley-Theorem/dia1.png" alt="Sequence graph for a_0=500" width="1000px">
+<img src="/myassets/images/2021-12-20-Burnside-Lemma-Cayley-Theorem/dia1.png" alt="diagram" width="1000px">
 </div>
 where \\(F\\) is the set of all formulas of the aforementioned form and all of the arrows are bijections. In particular, the bijection \\(\bigsqcup_{s\in S}{G_s}\leftrightarrow\bigsqcup_{g\in G}{S^g}\\) implies that
 ​\\[\sum_{s\in S}{|G_s|}=\sum_{g\in G}{|S^g|},\\]

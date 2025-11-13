@@ -28,15 +28,15 @@ The problem is that I have not proven that \\(p\\) ever actually equals \\(\max{
 The graphs of the sequence are even more beautiful. I graphed the sequence for starting terms of 500, 1000, and 2000, focusing on the behavior of the sequence before it converged to an arithmetic sequence.
 
 <div style="text-align: center;">
-<img src="/bay/myassets/images/2019-2-8-Stumbling-Around-images/dia1.png" alt="Sequence graph for a_0=500" width="700px">
+<img src="/myassets/images/2019-2-8-Stumbling-Around-images/dia1.png" alt="Sequence graph for a_0=500" width="700px">
 </div>
 
 <div style="text-align: center;">
-<img src="/bay/myassets/images/2019-2-8-Stumbling-Around-images/dia2.png" alt="Sequence graph for a_0=1000" width="700px">
+<img src="/myassets/images/2019-2-8-Stumbling-Around-images/dia2.png" alt="Sequence graph for a_0=1000" width="700px">
 </div>
 
 <div style="text-align: center;">
-<img src="/bay/myassets/images/2019-2-8-Stumbling-Around-images/dia3.png" alt="Sequence graph for a_0=2000" width="700px">
+<img src="/myassets/images/2019-2-8-Stumbling-Around-images/dia3.png" alt="Sequence graph for a_0=2000" width="700px">
 </div>
 
 The number of bounces clearly increases as the first term increases. Also, the bounces appear to approach a parabolic shape as the first term is increased. These may be new avenues of investigation after I can prove that the sequence always converges to an arithmetic sequence.

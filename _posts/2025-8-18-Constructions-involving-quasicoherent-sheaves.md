@@ -25,7 +25,7 @@ The question we are now asking is when the sheafification of \\(\mathcal{F}\_{\P
 
 **Theorem:** Let \\(X\\) be a scheme. Let \\(\mathcal{F}\_1,\mathcal{F}\_2,\dots,\mathcal{F}\_n\\) be quasicoherent sheaves on \\(X\\). For any ring \\(R\\) let \\(\Psi^R\\) be an operation on \\(R\\)-modules. Suppose for every affine subset \\(U\subseteq X\\) we have an isomorphism \\(L\_U\\) of \\(\mathcal{O}\_X(U)\\)-modules that makes the following diagram commute for every \\(f\in\mathcal{O}\_X(U)\\):
 <div style="text-align: center;">
-<img src="/bay/myassets/images/2025-8-18-Constructions-involving-quasicoherent-sheaves/dia2.png" alt="Corona discharge" width="450px">
+<img src="/myassets/images/2025-8-18-Constructions-involving-quasicoherent-sheaves/dia2.png" alt="diagram" width="450px">
 </div>
 where \\(\phi\_f^{\mathcal{O}\_X(U)}\\) is the canonical localization map and \\(Q\_f^U\\) is the isomorphism induced by the quasicoherence of the \\(\mathcal{F}\_i\\). Then for every affine subset \\(U\\) we will have
 \\[\mathcal{F}\_{\Psi}(U)\cong\mathcal{F}\_{\Psi}^{\\#}(U).\\]
