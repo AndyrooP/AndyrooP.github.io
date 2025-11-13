@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: home
 title: Research
 slug: /research
 ---
