@@ -2,7 +2,7 @@
 layout: post
 title: "Coherence is not a good notion in smooth geometry"
 date: 2025-9-6 12:00:00 -0400
-blurb: "A look at an example post using Bay Jekyll theme."
+blurb: "The sheaf of smooth functions is not coherent over itself."
 og_image: /assets/img/content/post-example/Banner.jpg
 math: true
 ---

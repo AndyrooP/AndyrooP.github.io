@@ -2,7 +2,7 @@
 layout: post
 title: "The Hodge decomposition for curves"
 date: 2025-12-11 22:00:00 -0500
-blurb: "A look at an example post using Bay Jekyll theme."
+blurb: "The Hodge decomposition on a compact connected Riemann surface."
 og_image: /assets/img/content/post-example/Banner.jpg
 math: true
 ---
