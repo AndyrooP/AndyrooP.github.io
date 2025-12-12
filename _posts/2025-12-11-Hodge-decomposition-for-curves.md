@@ -7,7 +7,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 math: true
 ---
 
-The Hodge decomposition for compact Kähler manifolds states that if $X$ a compact Kähler manifold, then the cohomology of $X$ decomposes canonically
+The Hodge decomposition for compact Kähler manifolds states that if $X$ is a compact Kähler manifold, then the cohomology of $X$ decomposes canonically as
 \\[H^k(X,\mathbb{C})=\bigoplus\_{p+q=k}{H^{p,q}(X)},\\]
 and moreover it is immediate that $H^{p,q}(X)=\overline{H^{q,p}(X)}$. Here, $H^{p,q}(X)$ is the space of cohomology classes of $(p,q)$-forms. Showing this decomposition holds is not a short story and it requires some deep analytic results about elliptic operators. However, one can show that a simple form of this decomposition holds more organically in the case that $X$ is a compact connected complex curve (a Riemann surface). That is, one may show that for such an $X$, we have
 \\[\boxed{H^1(X,\mathbb{C})\cong H^0(X,\Omega_X^1)\oplus H^1(X,\mathcal{O}_X),}\\]
