@@ -44,7 +44,7 @@ It is clear that \\(T^{-1}(S)=S\\). Notice that for any \\(f\in S\\), if \\(\chi
 \\[\sup\_{n\in\mathbb{N}}{|\chi\_{\mathbb{N}}(n)-f(n)|}\geq\sup\_{n\in f^{-1}(\\{0\\})}{|\chi\_{\mathbb{N}}(n)-f(n)|}=1.\\]
 Hence, \\(S\\) is not dense in \\(B(\mathbb{N})\\). Now pick \\(\epsilon>0\\) and \\(f\in L^1(\mu)\\). By definition, \\(\sum\_{n=1}^{\infty}{|f(n)|}<\infty\\), so we may pick \\(N\\) so large that for \\(m\geq N\\) we have \\(\sum\_{n=m}^{\infty}{|f(n)|}<\epsilon\\). Define the function \\(g\\) by
 \\[g(n)=\begin{cases}
-f(n) & n<N\\
+f(n) & n<N\\\\\
 0 & n\geq N.
 \end{cases}\\]
 Note that \\(g\in S\\) by construction. Moreover,
