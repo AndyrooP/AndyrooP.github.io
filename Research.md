@@ -14,6 +14,20 @@ permalink: /research
 1. ***​​Chern Classes and Lines on a Cubic Surface***​, UC San Diego Honors Thesis, June 2023, updated 11/7/2023 [<a href="/myassets/docs/ResearchDocs/HonorsThesisV5.pdf" target="_blank">PDF</a>]
 1. ***Set Theory and Cardinality***, Chapel Hill Math Circle, November 22, 2025 [<a href="/myassets/docs/ResearchDocs/SetTheoryandCardinality.pdf" target="_blank">PDF</a>]
 
-
 See <a href="https://anpaul.weebly.com/archives.html" target="_blank">here</a> for stuff I wrote mostly in high school.
+
+#### Open Questions
+These are open (to me) questions that are in the back of my head. They represent the various gaps in my knowledge that I feel I should fill in. Some of them are precisely stated and others are more vague. If you have good answers to these questions, please let me know!
+
+1. Vakil 11.4.7 is an algebraic generalization of <a href="https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis)#On_compact_Riemann_surfaces" target="_blank">Liouville's theorem</a>. He states that Grothendieck's coherence theorem (Vakil 18.9.1) is a further generalization. What is the coherence theorem really saying and how is it a generalization? Also, how is the assumption that $k$ is algebraically closed being used in the proof?
+1. What is the exact relationship between <a href="https://en.wikipedia.org/wiki/Hartogs%27s_extension_theorem" target="_blank">Hartogs' extension theorem</a> in several complex variables, and the algebraic Hartogs' lemma (Vakil 13.5.19)? Is the curve-to-projective extension theorem (Vakil 15.3.1) related to these?
+1. What are spectral sequences and how do they work?
+
+<!--
+1. Traditionally in "algebraic" algebraic geometry, given a Weil divisor $D$, the corresponding sheaf $\mathcal{O}_X(D)$ is defined by
+
+$$\Gamma(U,\mathcal{O}_X(D)):=\left\{ t\in K(X)^{\times}\colon\operatorname{div}{|_Ut}+D|_U\geq 0\right\}\cup\{0\}.$$
+
+This is the definition provided in, for instance, 15.4.6.1 of Vakil. Vakil goes on to state (Exercise 15.4.J) that when $D$ is a locally principal divisor, the sheaf $\mathcal{O}_X(D)$ is a line bundle. On the other hand, in complex algebraic geometry (for example, Griffiths & Harris) we might define the the line bundle associated to a divisor $D$
+-->
 

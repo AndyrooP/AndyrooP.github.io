@@ -63,7 +63,7 @@ and build the website!
 ```
 jekyll serve
 ```
-
+bundle exec jekyll serve
 
 The website will look somewhat empty at first. That's normal. Follow the next instructions to complete the header and footer components, and the home and blog pages.
 
