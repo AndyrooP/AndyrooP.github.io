@@ -28,7 +28,7 @@ These are open (to me) questions that are in the back of my head. They represent
 Then a calculation shows that the operator $D^2\colon\mathcal{A}^0(E)\to\mathcal{A}^2(E)$ is $C^{\infty}$-linear: if $\sigma$ is a section of $E$ and $f$ is a $C^{\infty}$-function, we will have $D^2(f\cdot\sigma)=f D^2\sigma$. From here onward, I don't understand what follows. Griffith's & Harris states that it follows from this that $D^2\colon\mathcal{A}^0(E)\to\mathcal{A}^2(E)$ is induced by a bundle map $E\to\bigwedge^2T^{\*}\otimes E$, or in other words, $D^2$ corresponds to a global section $\Theta$ of the bundle
 \\[\bigwedge^2T^{\*}\otimes\operatorname{Hom}{(E,E)}\cong\bigwedge^2T^{\*}\otimes(E^{\*}\otimes E).\\]
 Then given a frame $e$ for $E$, $\Theta\in\mathcal{A}^2(E^{\*}\otimes E)$ can be represented by a matrix $\Theta_e$ of $2$-forms. What does $C^{\infty}$-linearity imply that $D^2$ is "induced by a bundle map" and in what way is this induced? How does this then correspond to a section of the above bundle?
-1. What does it mean to perform a homotopy on an almost complex structure?
+1. What does it mean for two almost complex structures to be homotopic?
 
 
 <!--
