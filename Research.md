@@ -19,9 +19,17 @@ See <a href="https://anpaul.weebly.com/archives.html" target="_blank">here</a> f
 #### Open Questions
 These are open (to me) questions that are in the back of my head. They represent the various gaps in my knowledge that I feel I should fill in. Some of them are precisely stated and others are more vague. If you have good answers to these questions, please let me know!
 
-1. Vakil 11.4.7 is an algebraic generalization of <a href="https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis)#On_compact_Riemann_surfaces" target="_blank">Liouville's theorem</a>. He states that Grothendieck's coherence theorem (Vakil 18.9.1) is a further generalization. What is the coherence theorem really saying and how is it a generalization? Also, how is the assumption that $k$ is algebraically closed being used in the proof?
+1. Vakil 11.4.7 is an algebraic generalization of <a href="https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis)#On_compact_Riemann_surfaces" target="_blank">Liouville's theorem</a>. He states that Grothendieck's coherence theorem (Vakil 18.9.1) is a further generalization. What is the coherence theorem really saying and how is it a generalization? ~~Also, how is the assumption that $k$ is algebraically closed being used in the proof?~~
+  - $k$ being algebraically closed is what allows us to identify the closed points of $\mathbb{A}_k^1$ with the constants from $k$ (via the weak Nullstellensatz).
 1. What is the exact relationship between <a href="https://en.wikipedia.org/wiki/Hartogs%27s_extension_theorem" target="_blank">Hartogs' extension theorem</a> in several complex variables, and the algebraic Hartogs' lemma (Vakil 13.5.19)? Is the curve-to-projective extension theorem (Vakil 15.3.1) related to these?
 1. What are spectral sequences and how do they work?
+1. Griffith's & Harris goes about defining the curvature matrix of a connection $D$ on a complex vector bundle $E\to M$ as follows. For sections $\psi\in\mathcal{A}^p(U)$ and $\zeta\in\mathcal{A}^0(E)(U)$, we enforce the Leibniz rule
+\\[D(\psi\wedge\zeta)=d\psi\otimes\zeta+(-1)^p\psi\wedge D\zeta.\\]
+Then a calculation shows that the operator $D^2\colon\mathcal{A}^0(E)\to\mathcal{A}^2(E)$ is $C^{\infty}$-linear: if $\sigma$ is a section of $E$ and $f$ is a $C^{\infty}$-function, we will have $D^2(f\cdot\sigma)=f D^2\sigma$. From here onward, I don't understand what follows. Griffith's & Harris states that it follows from this that $D^2\colon\mathcal{A}^0(E)\to\mathcal{A}^2(E)$ is induced by a bundle map $E\to\bigwedge^2T^{\*}\otimes E$, or in other words, $D^2$ corresponds to a global section $\Theta$ of the bundle
+\\[\bigwedge^2T^{\*}\otimes\operatorname{Hom}{(E,E)}\cong\bigwedge^2T^{\*}\otimes(E^{\*}\otimes E).\\]
+Then given a frame $e$ for $E$, $\Theta\in\mathcal{A}^2(E^{\*}\otimes E)$ can be represented by a matrix $\Theta_e$ of $2$-forms. What does $C^{\infty}$-linearity imply that $D^2$ is "induced by a bundle map" and in what way is this induced? How does this then correspond to a section of the above bundle?
+1. What does it mean to perform a homotopy on an almost complex structure?
+
 
 <!--
 1. Traditionally in "algebraic" algebraic geometry, given a Weil divisor $D$, the corresponding sheaf $\mathcal{O}_X(D)$ is defined by
