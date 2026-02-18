@@ -9,7 +9,7 @@ profile_picture:
 
 I am a third year PhD student in the <a href="https://math.unc.edu/" target="_blank">Department of Mathematics</a> at the <a href="https://www.unc.edu/" target="_blank">University of North Carolina at Chapel Hill</a> studying under <a href="https://sawon.web.unc.edu/" target="_blank">Justin Sawon</a>. I completed my undergraduate degree in mathematics at the <a href="https://ucsd.edu/" target="_blank">University of California, San Diego</a> in 2023. You can find my CV <a href="/myassets/docs/CV/GCV.pdf" target="_blank">here</a>.
 
-​I am broadly interested in geometry, topology, and mathematical physics. More specifically, I am interested in complex geometry, Hodge theory, algebraic topology, and interactions between these areas.
+​I am broadly interested in geometry and topology, especially complex algebraic geometry. My current interest is in structures on Hilbert schemes of points. I also have some passing interests in algebraic topology and mathematical physics.
 
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" target="_blank">Erdös number</a> is 5.
 
@@ -20,7 +20,7 @@ For the non-mathematical things that I think about, see <a href="https://setminu
 **Office:**\
 ​University of North Carolina at Chapel Hill\
 Department of Mathematics\
-Phillips Hall 417\
+Phillips Hall 315\
 120 E. Cameron Avenue\
 Chapel Hill, N.C. 27599 USA
 
