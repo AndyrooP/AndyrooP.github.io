@@ -218,7 +218,7 @@ Hence by Theorem 3, the geometric genus of the Fermat curve $F_k^n$ is as above 
 
 ### The Riemann--Roch Theorem
 
-We have been making extensive use of cohomological techniques so far, and we will continue with another result about divisors on curves, namely the *Riemann-Roch theorem*. Since Weil divisors on a curve are (roughly) in correspondence with line bundles on the curve, this result can alternatively be thought of as a result about the cohomology of line bundles on a curve. Serre duality will continue to be a crucial technical tool in this discussion.
+We have been making extensive use of cohomological techniques so far, and we will continue with another result about divisors on curves, namely the *Riemann--Roch theorem*. Since Weil divisors on a curve are (roughly) in correspondence with line bundles on the curve, this result can alternatively be thought of as a result about the cohomology of line bundles on a curve. Serre duality will continue to be a crucial technical tool in this discussion.
 
 In this discussion, by "curve" we mean an integral, separated, $1$-dimensional smooth scheme of finite type and proper over a field $k$. Note that in particular, the condition of being proper over a field $k$ implies that our curves are projective (Proposition II.6.7 of Hartshorne).
 
