@@ -258,7 +258,7 @@ $$\begin{split}
 
 This completes the induction. $\square$
 
-The Riemann--Roch theorem is often written in various different ways. For example, we may observe that since since $X$ is projective, Serre duality applies and says $H^1(X,\mathcal{O}(D))\cong H^0(X,\omega_X\otimes\mathcal{O}(-D))^*$. Moreover, $\chi(X,\mathcal{O}_X)=1-p_a(X)$. So the Riemann--Roch theorem states
+The Riemann--Roch theorem is often written in various different ways. For example, we may observe that since $X$ is projective, Serre duality applies and says $H^1(X,\mathcal{O}(D))\cong H^0(X,\omega_X\otimes\mathcal{O}(-D))^*$. Moreover, $\chi(X,\mathcal{O}_X)=1-p_a(X)$. So the Riemann--Roch theorem states
 
 $$h^0(X,\mathcal{O}(D))-h^0(X,\mathcal{O}(K_X-D))=\deg{D}+1-p_a(X),$$
 
@@ -408,7 +408,7 @@ $$0\longrightarrow\mathcal{O}_X(-R_{\pi})\longrightarrow\mathcal{O}_X\longrighta
 
 Taking determinants in this exact sequence, we find that $\mathcal{O}\_X(-R_{\pi})\otimes\det{\iota\_{\*}(\mathcal{O}\_{R\_{\pi}})}\cong\mathcal{O}\_X$, which means $\det{\iota\_{\*}(\mathcal{O}\_{R\_{\pi}})}\cong\mathcal{O}\_X(R\_{\pi})$. We also see from the proof of Theorem 8 that the structure sheaf of $R_{\pi}$ is isomorphic to the restriction of $\Omega_{X/Y}$ to $R_{\pi}$. Since $R_{\pi}$ is the support of $\Omega_{X/Y}$, we have that
 
-$$\Omega_{X/Y}=\iota_*((\Omega_{X/Y})|_{R_{\pi}})\cong\iota_*(\Omega_{R_{\pi}}),$$
+$$\Omega_{X/Y}=\iota_*((\Omega_{X/Y})|_{R_{\pi}})\cong\iota_*(\mathcal{O}_{R_{\pi}}),$$
 
 hence we have shown that $\det{\Omega_{X/Y}}\cong\mathcal{O}\_X(R\_{\pi})$. Now we can take determinants in the short exact sequence of Lemma 4. This gives
 
