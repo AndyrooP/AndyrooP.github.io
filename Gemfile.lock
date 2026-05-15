@@ -121,6 +121,8 @@ GEM
       google-protobuf (~> 4.28)
     sass-embedded (1.83.0-riscv64-linux-musl)
       google-protobuf (~> 4.28)
+    sass-embedded (1.83.0-x64-mingw-ucrt)
+      google-protobuf (~> 4.28)
     sass-embedded (1.83.0-x86-cygwin)
       google-protobuf (~> 4.28)
     sass-embedded (1.83.0-x86-linux-android)
@@ -149,7 +151,6 @@ GEM
     tzinfo-data (1.2024.2)
       tzinfo (>= 1.0.0)
     unicode-display_width (2.6.0)
-    wdm (0.1.1)
     webrick (1.9.1)
 
 PLATFORMS
@@ -168,6 +169,7 @@ PLATFORMS
   riscv64-linux-gnu
   riscv64-linux-musl
   ruby
+  x64-mingw-ucrt
   x86-cygwin
   x86-linux
   x86-linux-android
@@ -189,7 +191,6 @@ DEPENDENCIES
   logger
   tzinfo (~> 1.2)
   tzinfo-data
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.5.23
