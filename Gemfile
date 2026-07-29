@@ -7,6 +7,7 @@ source "https://rubygems.org"
 gem "csv"
 gem "logger"
 gem "jekyll", "~> 4.3.4"
+gem "jekyll-sitemap"
 
 # Plugins
 group :jekyll_plugins do
