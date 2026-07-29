@@ -8,7 +8,7 @@ profile_picture:
 
 I am a third year PhD student in the <a href="https://math.unc.edu/" target="_blank">Department of Mathematics</a> at the <a href="https://www.unc.edu/" target="_blank">University of North Carolina at Chapel Hill</a> studying under <a href="https://sawon.web.unc.edu/" target="_blank">Justin Sawon</a>. I completed my undergraduate degree in mathematics at the <a href="https://ucsd.edu/" target="_blank">University of California, San Diego</a> in 2023. You can find my CV <a href="/myassets/docs/CV/GCV.pdf" target="_blank">here</a>.
 
-​I am broadly interested in geometry and topology, especially complex algebraic geometry. I am currently thinking about Hilbert schemes of points of K3 surfaces. I also have some passing interests in algebraic topology and mathematical physics.
+​I am broadly interested in geometry and topology, especially complex algebraic geometry. I am currently thinking about <a href="https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold" target="_blank">Hilbert schemes of points</a> of <a href="https://en.wikipedia.org/wiki/K3_surface" target="_blank">K3 surfaces</a>. I also have some passing interests in algebraic topology and mathematical physics.
 
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" target="_blank">Erdös number</a> is 4.
 
