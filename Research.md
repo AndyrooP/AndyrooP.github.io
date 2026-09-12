@@ -16,6 +16,7 @@ permalink: /research
 
 See <a href="https://anpaul.weebly.com/archives.html" target="_blank">here</a> for stuff I wrote mostly in high school.
 
+<!--
 #### Open Questions
 These are open (to me) questions that are in the back of my head. They represent the various gaps in my knowledge that I feel I should fill in. Some of them are precisely stated and others are more vague. If you have good answers to these questions, please let me know!
 
@@ -31,7 +32,7 @@ Then given a frame $e$ for $E$, $\Theta\in\mathcal{A}^2(E^{\*}\otimes E)$ can be
 1. What does it mean for two almost complex structures to be homotopic?
 
 
-<!--
+
 1. Traditionally in "algebraic" algebraic geometry, given a Weil divisor $D$, the corresponding sheaf $\mathcal{O}_X(D)$ is defined by
 
 $$\Gamma(U,\mathcal{O}_X(D)):=\left\{ t\in K(X)^{\times}\colon\operatorname{div}{|_Ut}+D|_U\geq 0\right\}\cup\{0\}.$$
