@@ -19,7 +19,7 @@ We will discuss two different ways to prove this. The first is a lowbrow method,
 
 This is a proof by infinite descent that uses some clever algebra to generate polynomial solutions to Fermat's equation of strictly smaller degree, given some starting solutions.
 
-*Proof of Theorem 1:* Suppose there exists a dominant rational map $\varphi\colon\mathbb{P}\_{\mathbb{C}}^1\dashrightarrow F\_{\mathbb{C}}^n$ from the projective line to the Fermat curve, where $n>2$. After dehomogeneization in an affine chart, this rational map should be given by the data of three rational functions $f(t)$, $g(t)$, and $h(t)$, satisfying the equation $f(t)^n+g(t)^n=h(t)^n$. By Theorem II.6.8 of Hartshorne, since the projective line is a complete curve, it follows that the image of $\varphi$ is either a point or $F_{\mathbb{C}}^n$ itself. Since this map is dominant, we note that the image of $\varphi$ cannot be a single point. That is, the rational functions $f(t)$, $g(t)$, and $h(t)$ should not be constants. Clearing denominators and canceling common factors, we obtain polynomials $F(t)$, $G(t)$, and $H(t)$ that are relatively prime and satisfy $F(t)^n+G(t)^n=H(t)^n$. 
+*Proof of Theorem 1:* Suppose there exists a dominant rational map $\varphi\colon\mathbb{P}\_{\mathbb{C}}^1\dashrightarrow F\_{\mathbb{C}}^n$ from the projective line to the Fermat curve, where $n>2$. After dehomogeneization in an affine chart, this rational map should be given by the data of rational functions $f(t)$ and $g(t)$ satisfying the equation $f(t)^n+g(t)^n=1$. By Theorem II.6.8 of Hartshorne, since the projective line is a complete curve, it follows that the image of $\varphi$ is either a point or $F_{\mathbb{C}}^n$ itself. Since this map is dominant, we note that the image of $\varphi$ cannot be a single point. That is, the rational functions $f(t)$ and $g(t)$ should not be constants. Clearing denominators and canceling common factors, we obtain polynomials $F(t)$, $G(t)$, and $H(t)$ that are relatively prime and satisfy $F(t)^n+G(t)^n=H(t)^n$.
 
 Suppose furthermore that the polynomials $F$, $G$, and $H$ solving Fermat's equation are chosen so that $\min{(\deg{F},\deg{G})}$ is minimal amongst all tuples of polynomial solutions to Fermat's equation. Without loss of generality, let us assume that $\deg{F}=\min{(\deg{F},\deg{G})}$. Note that
 
@@ -238,7 +238,7 @@ Now suppose the claim is true for some divisor $D$. Pick a (closed) point $p\in 
 
 $$0\longrightarrow\mathcal{O}(-p)\longrightarrow\mathcal{O}_X\longrightarrow\mathcal{O}_X|_p\longrightarrow0.$$
 
-Note that $\mathcal{O}\_X\|\_p$ is simply a skyscraper sheaf of the residue field $k(p)$. So when we tensor the about exact sequence by the rank $$1$$ locally free sheaf $\mathcal{O}(D+p)$, this skyscraper sheaf will be preserved. Hence we have
+Note that $\mathcal{O}\_X\|\_p$ is simply a skyscraper sheaf of the residue field $k(p)$. So when we tensor the above exact sequence by the rank $$1$$ locally free sheaf $\mathcal{O}(D+p)$, this skyscraper sheaf will be preserved. Hence we have
 
 $$0\longrightarrow\mathcal{O}(D)\longrightarrow\mathcal{O}(D+p)\longrightarrow\mathcal{O}_X|_p\longrightarrow0.$$
 
