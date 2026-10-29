@@ -72,3 +72,8 @@ exclude:
 
 # Used for defeating caching
 version: 1
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax

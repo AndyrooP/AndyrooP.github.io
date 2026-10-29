@@ -14,6 +14,86 @@ permalink: /research
 1. ***​​Chern Classes and Lines on a Cubic Surface***​, UC San Diego Honors Thesis, June 2023, updated 11/7/2023 [<a href="/myassets/docs/ResearchDocs/HonorsThesisV5.pdf" target="_blank">PDF</a>]
 1. ***Set Theory and Cardinality***, Chapel Hill Math Circle, November 22, 2025 [<a href="/myassets/docs/ResearchDocs/SetTheoryandCardinality.pdf" target="_blank">PDF</a>]
 
+#### Abstracts
+Here are the abstracts some talks I gave recently. They are almost entirely expository.
+
+<ol>
+<li>
+  <strong><em>Hilbert Schemes of Points</em></strong>
+
+  <p>jGMRT; October 29, 2026</p>
+
+  <p>
+    For a projective scheme $X$, the <em>Hilbert scheme of $n$ points</em> $X^{[n]}$ is the moduli space parameterizing $0$-dimensional subschemes of length $n$. Unlike the topological notion of a configuration space, the Hilbert scheme of points captures how points can collide in a space $X$. It is intimately related to the $n$<sup>th</sup> symmetric power of $X$. In fact, when $X$ is a surface, its Hilbert scheme of points is simply a resolution of singularities of its symmetric power. In this talk, we will give an explicit description of this space for especially simple $X$ and $n$. Time-permitting, I will describe a question I am interested in: given a fibration, how does taking the Hilbert scheme (or Douady space) interact with twisting the fibration?
+  </p>
+</li>
+
+
+<li>
+  <strong><em>Curvature and Characteristic Classes</em></strong>
+
+  <p>jGMRT; September 24, 2026</p>
+
+  <p>
+    Characteristic classes are often thought of as cohomology classes associated to a vector bundle that just enjoy certain formal properties. Unfortunately this is not a constructive definition and it leaves the essence of characteristic classes rather opaque. In this talk, I will abstract the geometric concept of curvature and use this to state the Chern-Weil homomorphism. I will focus on Chern classes, defining them as particular elements in the image of the Chern-Weil homomorphism. Time permitting, I will discuss additional interpretations of Chern classes in algebraic geometry and algebraic topology.
+  </p>
+</li>
+
+
+<li>
+  <strong><em>Why Schemes?</em></strong>
+
+  <p>GMA Seminar; September 14, 2026</p>
+
+  <p>
+    Algebraic geometry has a reputation for being extremely abstract, unmotivated, and difficult to understand. In this talk, I will try to convince you that algebraic geometry is in fact reasonable and about geometry. I will motivate two of the most fundamental concepts, sheaves and schemes, by arguing that in all reasonable situations that you are already familiar with, the geometry of a space $X$ is encoded in the space of "nice" functions on $X$. By the end of the talk, I will not have given any technical definitions of sheaves or schemes, but I hope you will have an intense feeling that something like them ought to exist.
+  </p>
+</li>
+
+<li>
+  <strong><em>Rational Maps Between Curves</em></strong>
+
+  <p>Carolina Math Club; March 5, 2026</p>
+
+  <p>
+    An ancient problem is to find all Pythagorean triples, i.e. integral solutions to the equation $x^2+y^2=z^2$. It turns out that there is a geometric solution to this problem. Indeed, stereographic projection gives a parameterization of the rational points on the circle $x^2+y^2=1$ by the projective line over the rational numbers $\mathbb{P}_{\mathbb{Q}}^1$. In other words, Euclid's formula for the Pythagorean triples arises from a so-called <em>dominant rational map</em> $\mathbb{P}^1\dashrightarrow F^2$, where $F^2$ is the curve in the projective plane cut out by the equation $x^2+y^2=z^2$.
+  </p>
+
+  <p>
+    More generally, let $F^n$ be the curve in the projective plane cut out by the equation $x^n+y^n=z^n$ for a positive integer $n$. We may naturally ask: for $n>2$, does there exist a dominant rational map $\mathbb{P}^1\dashrightarrow F^n$? We will see that in fact the answer is no, and the reason for this is entirely geometric. By using some technology from algebraic geometry, namely the Riemann-Hurwitz formula, we can show that the mismatch in the genera (a topological invariant) of the projective line $\mathbb{P}^1$ and the <em>Fermat curve</em> $F^n$ for $n>2$ makes it impossible for a dominant rational map $\mathbb{P}^1\dashrightarrow F^n$ to exist.
+  </p>
+</li>
+
+
+<li>
+  <strong><em>The Hodge Decomposition on Compact Kähler Manifolds</em></strong>
+
+  <p>jGMRT; October 31, 2025</p>
+
+  <p>
+    A Kähler manifold is a special type of Hermitian manifold whose
+    Hermitian structure interacts well with the underlying Riemannian
+    structure. A large and important class of examples is given by
+    smooth complex projective varieties. For a compact Kähler manifold
+    $X$, a deep result of elliptic operator theory implies that the
+    de Rham cohomology of $X$ decomposes canonically as
+  </p>
+
+  <div>
+    $$
+    H^k(X,\mathbb{C})=\bigoplus_{p+q=k}H^{p,q}(X).
+    $$
+  </div>
+
+  <p>
+    We will attempt to motivate this result and, time permitting,
+    discuss the special case of when $X$ is a compact connected
+    complex curve.
+  </p>
+</li>
+</ol>
+
+
 See <a href="https://anpaul.weebly.com/archives.html" target="_blank">here</a> for stuff I wrote mostly in high school.
 
 <!--
