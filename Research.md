@@ -15,7 +15,7 @@ permalink: /research
 1. ***Set Theory and Cardinality***, Chapel Hill Math Circle, November 22, 2025 [<a href="/myassets/docs/ResearchDocs/SetTheoryandCardinality.pdf" target="_blank">PDF</a>]
 
 #### Abstracts
-Here are the abstracts some talks I gave recently. They are almost entirely expository.
+Here are the abstracts of some of the talks I have given recently. They are almost entirely expository.
 
 <ol>
 <li>
