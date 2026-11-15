@@ -14,10 +14,24 @@ permalink: /research
 1. ***​​Chern Classes and Lines on a Cubic Surface***​, UC San Diego Honors Thesis, June 2023, updated 11/7/2023 [<a href="/myassets/docs/ResearchDocs/HonorsThesisV5.pdf" target="_blank">PDF</a>]
 1. ***Set Theory and Cardinality***, Chapel Hill Math Circle, November 22, 2025 [<a href="/myassets/docs/ResearchDocs/SetTheoryandCardinality.pdf" target="_blank">PDF</a>]
 
+
+See <a href="https://anpaul.weebly.com/archives.html" target="_blank">here</a> for stuff I wrote mostly in high school.
+
 #### Abstracts
 Here are the abstracts of some of the talks I have given recently. They are almost entirely expository.
 
 <ol>
+<li>
+  <strong><em>Twists of Fibrations</em></strong>
+
+  <p>TAGMaC; November 14, 2026</p>
+
+  <p>
+    Given a fibration, one may “twist” it by breaking it up into pieces and gluing the pieces back together in a nontrivial way. These twists are parameterized by certain cohomological data which are often computable. A simple example is a $+1$ twist of the trivial $S^1$-bundle over $S^2$, which yields the Hopf fibration $S^3\to S^2$. I will discuss several spaces that arise as twists, such as lens spaces, Kodaira surfaces, and Hopf surfaces. Given a surface, we may also take its Hilbert scheme/Douady space of points, which is the moduli space parameterizing collections of points on the surface. I will state a question I am interested in: how does taking the Hilbert scheme/Douady space of a surface interact with twisting its fibration?
+  </p>
+</li>
+
+
 <li>
   <strong><em>Hilbert Schemes of Points</em></strong>
 
@@ -93,8 +107,6 @@ Here are the abstracts of some of the talks I have given recently. They are almo
 </li>
 </ol>
 
-
-See <a href="https://anpaul.weebly.com/archives.html" target="_blank">here</a> for stuff I wrote mostly in high school.
 
 <!--
 #### Open Questions
